@@ -12,8 +12,10 @@ My formal training and research background is in planetary science and astrophys
 I have been active in this field of research with since 1991.
 I am also fascinated by the prospect of using space resources to solve problems both in space and on Earth.
 
-My career started out following a classical academic trajectory, but soon it took different and interesting turns. 
-I thrive with a freelance-way of working: shorter or longer temporary contracts, changing topics.
+My career started out following a classical academic trajectory with a PhD (1997), a postdoc contract,
+an academic research position (1999 - 2007).
+As of 2007 it started to take different and interesting turns. 
+I have been working as a freelancer and I thrive much better working this way: shorter or longer temporary contracts, changing topics.
 In addition to being a scientist, I am also a factual filmmaker
 (see `portfolio <https://lightcurvefilms.readthedocs.io/en/latest/portfolio.html>`_ for selected links).
 
