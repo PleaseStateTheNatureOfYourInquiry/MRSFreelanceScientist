@@ -1,4 +1,5 @@
 
+.. _githubrepositories:
 
 GitHub repositories
 ===================
