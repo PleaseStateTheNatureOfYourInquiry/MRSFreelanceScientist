@@ -37,6 +37,6 @@ I will master new techniques whenever these are required to find solutions to a 
    :hidden:
 
    relevantcompetences 
-   pastplanetarysciencecontracts
+   pastshortsciencecontracts
    github
    publications

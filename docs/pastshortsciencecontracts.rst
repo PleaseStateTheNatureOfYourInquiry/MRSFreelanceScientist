@@ -1,7 +1,7 @@
 
 
-Past Science Contracts
-======================
+Past short science contracts
+============================
 
 
 Venus Express (Jan. - July 2015 / 2024)
