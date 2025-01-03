@@ -5,7 +5,7 @@ Maarten Roos-Serote freelance scientist
 
 When it comes to space research, there is so much exciting and important stuff happening at this time.
 In addition to all the scientific advances it clearly seems we are on the verge of humanity's next steps expanding into space.
-Whatever those steps will look like, they will be an important ones.
+Whatever those steps will look like, they will be important ones.
 In some capacity or another I plan to continue to be a part of it.
 
 My formal training and research background is in planetary science and astrophysics.
