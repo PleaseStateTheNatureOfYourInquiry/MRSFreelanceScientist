@@ -1,6 +1,6 @@
 sphinx_rtd_theme
 sphinxcontrib-youtube
 sphinxcontrib-video
-
+furo==2021.11.16
 
 

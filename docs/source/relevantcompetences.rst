@@ -19,10 +19,10 @@ Please see my :ref:`GitHub repositories <githubrepositories>`.
 * Qt, PyQt;
 
 
-.. image:: ../documents/20220310_Qt_Beginners_UC.png
+.. image:: ../../documents/20220310_Qt_Beginners_UC.png
     :scale: 20%
 
-.. image:: ../documents/20220310_Qt_Intermediate_UC.png
+.. image:: ../../documents/20220310_Qt_Intermediate_UC.png
     :scale: 20%
 
 * Plotly Dash;
@@ -37,10 +37,10 @@ Training
 * Space Resources Professional Course, Luxembourg, 22-23 March 2024;
 * Software Systems for Astronomy, Online, 5 July - 12 August 2022;
 
-.. image:: ../documents/20240322-23_SpaceResourcesProfessionalCourse.png
+.. image:: ../../documents/20240322-23_SpaceResourcesProfessionalCourse.png
     :scale: 30%
 
-.. image:: ../documents/20220915_SoftwareSystemsForAstronomy.png
+.. image:: ../../documents/20220915_SoftwareSystemsForAstronomy.png
     :scale: 10%
 
 
