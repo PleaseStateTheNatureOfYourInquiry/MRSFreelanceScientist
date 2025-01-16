@@ -35,8 +35,10 @@ I will master new techniques whenever these are required to find solutions to a 
 
 .. toctree::
    :hidden:
+   :maxdepth: 3
 
    relevantcompetences 
-   pastshortsciencecontracts
    github
+   pastshortsciencecontracts
    publications
+   communityinvolvement
