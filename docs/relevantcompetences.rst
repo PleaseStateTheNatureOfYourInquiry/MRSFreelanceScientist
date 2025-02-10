@@ -9,7 +9,7 @@ Coding / Software
 I have been writing code ever since I got involved with research in 1991.
 My code skills much increased while developing a complete software landscape (including GUIs) for data acquisition, reduction and analysis
 for cardiac rhythm studies at the Erasmus University Hospital in Rotterdam, the Netherlands, between 2018 and 2024.
-Unfortunately I cannot share any of these applications on GitHub, since sadly practices of Open Science are uncommon in medical research.
+I unfortunately cannot share these applications on GitHub, since practices of Open Science are uncommon in medical research.
 Please see my :ref:`GitHub repositories <githubrepositories>`.
 
 * Python, Cython;

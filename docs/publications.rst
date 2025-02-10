@@ -12,9 +12,8 @@ Peer reviewed
 **Roos-Serote M.**, C.F. Wilson, R. MacDonald, S. Tellmann, Y.-J. Lee, I.V. Khatuntsev 2025.
 Context images for Venus Express radio occultation measurements: A search for a correlation between temperature structure
 and UV contrasts in the clouds of Venus.
-In submitted to A&A
-(see `GitHub repository <https://github.com/PleaseStateTheNatureOfYourInquiry/VenusResearchWorkBook>`_ and
-corresponding `ReadTheDocs pages <https://venusresearchworkbook.readthedocs.io/en/latest/>`_).
+Submitted to A&A. `Arxiv version <https://arxiv.org/abs/2502.04650>`_ and `GitHub repository <https://github.com/PleaseStateTheNatureOfYourInquiry/VenusResearchWorkBook>`_ and
+corresponding `ReadTheDocs pages <https://venusresearchworkbook.readthedocs.io/en/latest/>`_.
 
 .. _publication35:
 
