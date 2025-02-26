@@ -323,7 +323,7 @@ Not peer reviewed
 
 **Roos, M.**, J. Van den Bulck 2019.
 Space videos on YouTube – what makes the audience tick.
-EPJ Web of Conferences 200, ISE2A 2017. (`doi: 10.1051/epjconf/201920001004 <10.1051/epjconf/201920001004>`_)(`pdf <https://www.epj-conferences.org/articles/epjconf/pdf/2019/05/epjconf_ise2a2017_01004.pdf>`_)
+EPJ Web of Conferences 200, ISE2A 2017. (`doi: 10.1051/epjconf/201920001004 <https://doi.org/10.1051/epjconf/201920001004>`_)(`pdf <https://www.epj-conferences.org/articles/epjconf/pdf/2019/05/epjconf_ise2a2017_01004.pdf>`_)
 
 Banfield, D., D. Stam, H. Volten, O. Muñoz, and **M. Roos-Serote** 2003.
 Planetary polarization nephelometer.
